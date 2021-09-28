@@ -1,0 +1,2 @@
+# mycoreapp
+my first project
